@@ -1,0 +1,55 @@
+{
+    "cartTitle": "FAHMI RACING",
+    "cartDescription": "expressCart",
+    "cartLogo": "",
+    "baseUrl": "http://localhost:1111",
+    "emailHost": "smtp-mail.outlook.com",
+    "emailPort": 587,
+    "emailSecure": false,
+    "emailUser": "hi@markmoffat.com",
+    "emailPassword": "this_is_the_smtp_password",
+    "emailAddress": "hi@markmoffat.com",
+    "productsPerRow": 3,
+    "productsPerPage": 6,
+    "footerHtml": "&lt;h4 class=&quot;text-center&quot;&gt;MADE BY FAHMI RACING&lt;/h4&gt;",
+    "googleAnalytics": "",
+    "injectJs": "",
+    "customCss": "",
+    "currencySymbol": "$",
+    "currencyISO": "USD",
+    "paymentGateway": [
+        "paypal"
+    ],
+    "databaseConnectionString": "mongodb+srv://fahmiii:3MtUv8hW36pw3ZA9@cluster0.rkfkv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "theme": "Cloth",
+    "trackStock": false,
+    "orderHook": "",
+    "availableLanguages": [
+        "en",
+        "it"
+    ],
+    "defaultLocale": "en",
+    "maxQuantity": 25,
+    "twitterHandle": "",
+    "facebookAppId": "",
+    "productOrderBy": "date",
+    "productOrder": "descending",
+    "modules": {
+        "enabled": {
+            "shipping": "shipping-basic",
+            "discount": "discount-voucher",
+            "reviews": "reviews-basic"
+        },
+        "loaded": {
+            "shipping": {},
+            "discount": {},
+            "reviews": {}
+        }
+    },
+    "showRelatedProducts": true,
+    "showHomepageVariants": false,
+    "secretCookie": "5d56901156b24324ca96ec319fe3a53e09675dd0",
+    "secretSession": "2811d82b4c84c67a26102d41a96f9376cd4241ca",
+    "themeViews": "../views/themes/Cloth/",
+    "env": ""
+}

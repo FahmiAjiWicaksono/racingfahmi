@@ -1,0 +1,8 @@
+{
+    "description": "PayPal payment",
+    "mode": "sandbox",
+    "client_id": "AVCm4tBt5wYBWf13oMPz4NZa_Rux8JGPu7WmRraTOQEyPr80Bk5XfMimWvh8v_lf63RAvD2ZBkNT-fw-",
+    "client_secret": "ECeShtUgG-VcBdORsRiNCw-2VDUNnqZ2-WK5QbYQaaKfVFRklgclKzwxnm-Z8lGBf9-ip9wL5iJ5r143",
+    "paypalCartDescription": "BKLYN",
+    "paypalCurrency": "USD"
+}
